@@ -1,0 +1,3 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="0dp" /> <!-- Set the radius to 0dp for sharp corners -->
+</shape>
